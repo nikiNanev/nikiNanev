@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on libanimation.
+🔭 I’m currently working on instructions.
 
-🌱 I’m currently learning C/C++
+🌱 I’m currently learning C/C++/Assembly/Linux
 
 👯 I’m looking to collaborate on gamedev projects
 
